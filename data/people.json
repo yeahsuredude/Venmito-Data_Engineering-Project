@@ -81,28 +81,28 @@
       "telephone": "555-8026"
     },
     {
-        "id": 11,
-        "firstName": "Lara",
-        "surname": "Croft",
-        "city": "London",
-        "email": "lara.croft@example.com",
-        "telephone": "555-2468"
-      },
-      {
-        "id": 12,
-        "firstName": "Dexter",
-        "surname": "Morgan",
-        "city": "Miami",
-        "email": "dexter.morgan@example.com",
-        "telephone": "555-1357"
-      },
-      {
-        "id": 13,
-        "firstName": "Eleven",
-        "surname": "Hopper",
-        "city": "Hawkins",
-        "email": "eleven.hopper@example.com",
-        "telephone": "555-8642"
-      }
+      "id": 11,
+      "firstName": "Lara",
+      "surname": "Croft",
+      "city": "London",
+      "email": "lara.croft@example.com",
+      "telephone": "555-2468"
+    },
+    {
+      "id": 12,
+      "firstName": "Dexter",
+      "surname": "Morgan",
+      "city": "Miami",
+      "email": "dexter.morgan@example.com",
+      "telephone": "555-1357"
+    },
+    {
+      "id": 13,
+      "firstName": "Eleven",
+      "surname": "Hopper",
+      "city": "Hawkins",
+      "email": "eleven.hopper@example.com",
+      "telephone": "555-8642"
+    }
   ]
 }
