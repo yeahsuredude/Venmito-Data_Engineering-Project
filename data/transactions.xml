@@ -1,0 +1,142 @@
+<transactions>
+  <transaction id="1000">
+    <buyer_name>J. Snow</buyer_name>
+    <item>apple</item>
+    <price>2</price>
+    <store>Enchanted Page Bookstore</store>
+    <transactionDate>2022-01-01</transactionDate>
+  </transaction>
+  <transaction id="1001">
+    <buyer_name>D. Targaryen</buyer_name>
+    <item>banana</item>
+    <price>3</price>
+    <store>Enchanted Page Bookstore</store>
+    <transactionDate>2022-01-01</transactionDate>
+  </transaction>
+  <transaction id="1002">
+    <buyer_name>T. Stark</buyer_name>
+    <item>orange</item>
+    <price>1.5</price>
+    <store>Gadget Galaxy Electronics</store>
+    <transactionDate>2022-01-10</transactionDate>
+  </transaction>
+  <transaction id="1003">
+    <buyer_name>H. Granger</buyer_name>
+    <item>mango</item>
+    <price>2.5</price>
+    <store>Timeless Treasures Antique Boutique</store>
+    <transactionDate>2022-01-15</transactionDate>
+  </transaction>
+  <transaction id="1004">
+    <buyer_name>S. Holmes</buyer_name>
+    <item>grape</item>
+    <price>1.75</price>
+    <store>Blossom & Broomstick Apothecary</store>
+    <transactionDate>2022-02-01</transactionDate>
+  </transaction>
+  <transaction id="1005">
+    <buyer_name>W. White</buyer_name>
+    <item>watermelon</item>
+    <price>5</price>
+    <store>Whisk & Whimsy Bakery</store>
+    <transactionDate>2022-03-01</transactionDate>
+  </transaction>
+  <transaction id="1006">
+    <buyer_name>B. Wayne</buyer_name>
+    <item>pear</item>
+    <price>2</price>
+    <store>Enchanted Page Bookstore</store>
+    <transactionDate>2022-03-01</transactionDate>
+  </transaction>
+  <transaction id="1007">
+    <buyer_name>E. Bennet</buyer_name>
+    <item>kiwi</item>
+    <price>3.5</price>
+    <store>Gadget Galaxy Electronics</store>
+    <transactionDate>2022-01-01</transactionDate>
+  </transaction>
+  <transaction id="1008">
+    <buyer_name>H. Potter</buyer_name>
+    <item>pineapple</item>
+    <price>4</price>
+    <store>Blossom & Broomstick Apothecary</store>
+    <transactionDate>2022-01-16</transactionDate>
+  </transaction>
+  <transaction id="1009">
+    <buyer_name>C. America</buyer_name>
+    <item>strawberry</item>
+    <price>2.25</price>
+    <store>Blossom & Broomstick Apothecary</store>
+    <transactionDate>2022-02-02</transactionDate>
+  </transaction>
+  <transaction id="1010">
+    <buyer_name>L. Croft</buyer_name>
+    <item>blueberry</item>
+    <price>2.75</price>
+    <store>Whisk & Whimsy Bakery</store>
+    <transactionDate>2022-04-01</transactionDate>
+  </transaction>
+  <transaction id="1011">
+    <buyer_name>D. Morgan</buyer_name>
+    <item>cherry</item>
+    <price>1.5</price>
+    <store>Whisk & Whimsy Bakery</store>
+    <transactionDate>2022-03-12</transactionDate>
+  </transaction>
+  <transaction id="1012">
+    <buyer_name>E. Hopper</buyer_name>
+    <item>avocado</item>
+    <price>3.25</price>
+    <store>Whisk & Whimsy Bakery</store>
+    <transactionDate>2022-01-17</transactionDate>
+  </transaction>
+  <transaction id="1013">
+    <buyer_name>H. Moody</buyer_name>
+    <item>melon</item>
+    <price>4.5</price>
+    <store>Whisk & Whimsy Bakery</store>
+    <transactionDate>2022-02-20</transactionDate>
+  </transaction>
+  <transaction id="1014">
+    <buyer_name>P. Carter</buyer_name>
+    <item>plum</item>
+    <price>1.75</price>
+    <store>Whisk & Whimsy Bakery</store>
+    <transactionDate>2022-01-01</transactionDate>
+  </transaction>
+  <transaction id="1015">
+    <buyer_name>L. Skywalker</buyer_name>
+    <item>peach</item>
+    <price>2.25</price>
+    <store>Whisk & Whimsy Bakery</store>
+    <transactionDate>2022-01-31</transactionDate>
+  </transaction>
+  <transaction id="1016">
+    <buyer_name>W. Mitty</buyer_name>
+    <item>lemon</item>
+    <price>1.25</price>
+    <store>Whisk & Whimsy Bakery</store>
+    <transactionDate>2022-03-14</transactionDate>
+  </transaction>
+  <transaction id="1017">
+    <buyer_name>H. Lecter</buyer_name>
+    <item>raspberry</item>
+    <price>3.75</price>
+    <store>Enchanted Page Bookstore</store>
+    <transactionDate>2022-05-15</transactionDate>
+  </transaction>
+  <transaction id="1018">
+    <buyer_name>K. Everdeen</buyer_name>
+    <item>blackberry</item>
+    <price>2.5</price>
+    <store>Timeless Treasures Antique Boutique</store>
+    <transactionDate>2022-01-01</transactionDate>
+  </transaction>
+  <transaction id="1019">
+    <buyer_name>T. Montana</buyer_name>
+    <item>coconut</item>
+    <price>3.5</price>
+    <store>Blossom & Broomstick Apothecary</store>
+    <transactionDate>2022-04-16</transactionDate>
+  </transaction>
+</transactions>

@@ -1,0 +1,51 @@
+people:
+  - id: 11
+    name: "Lara Croft"
+    city: "London"
+    email: "lara.croft@example.com"
+    phone: "555-2468"
+  - id: 12
+    name: "Dexter Morgan"
+    city: "Miami"
+    email: "dexter.morgan@example.com"
+    phone: "555-1357"
+  - id: 13
+    name: "Eleven Hopper"
+    city: "Hawkins"
+    email: "eleven.hopper@example.com"
+    phone: "555-8642"
+  - id: 14
+    name: "Hank Moody"
+    city: "Los Angeles"
+    email: "hank.moody@example.com"
+    phone: "555-7410"
+  - id: 15
+    name: "Peggy Carter"
+    city: "New York"
+    email: "peggy.carter@example.com"
+    phone: "555-3691"
+  - id: 16
+    name: "Luke Skywalker"
+    city: "Tatooine"
+    email: "luke.skywalker@example.com"
+    phone: "555-9753"
+  - id: 17
+    name: "Walter Mitty"
+    city: "New York"
+    email: "walter.mitty@example.com"
+    phone: "555-8026"
+  - id: 18
+    name: "Hannibal Lecter"
+    city: "Baltimore"
+    email: "hannibal.lecter@example.com"
+    phone: "555-1234"
+  - id: 19
+    name: "Katniss Everdeen"
+    city: "District 12"
+    email: "katniss.everdeen@example.com"
+    phone: "555-5678"
+  - id: 20
+    name: "Tony Montana"
+    city: "Miami"
+    email: "tony.montana@example.com"
+    phone: "555-9876"

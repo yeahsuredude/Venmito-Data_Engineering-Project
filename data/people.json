@@ -1,0 +1,108 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "firstName": "Jon",
+      "surname": "Snow",
+      "city": "Winterfell",
+      "email": "jon.snow@example.com",
+      "telephone": "555-1234"
+    },
+    {
+      "id": 2,
+      "firstName": "Daenerys",
+      "surname": "Targaryen",
+      "city": "Dragonstone",
+      "email": "daenerys.targaryen@example.com",
+      "telephone": "555-5678"
+    },
+    {
+      "id": 3,
+      "firstName": "Tony",
+      "surname": "Stark",
+      "city": "New York",
+      "email": "tony.stark@example.com",
+      "telephone": "555-2468"
+    },
+    {
+      "id": 4,
+      "firstName": "Hermione",
+      "surname": "Granger",
+      "city": "London",
+      "email": "hermione.granger@example.com",
+      "telephone": "555-9876"
+    },
+    {
+      "id": 5,
+      "firstName": "Sherlock",
+      "surname": "Holmes",
+      "city": "London",
+      "email": "sherlock.holmes@example.com",
+      "telephone": "555-1357"
+    },
+    {
+      "id": 6,
+      "firstName": "Walter",
+      "surname": "White",
+      "city": "Albuquerque",
+      "email": "walter.white@example.com",
+      "telephone": "555-8642"
+    },
+    {
+      "id": 7,
+      "firstName": "Bruce",
+      "surname": "Wayne",
+      "city": "Gotham City",
+      "email": "bruce.wayne@example.com",
+      "telephone": "555-7410"
+    },
+    {
+      "id": 8,
+      "firstName": "Elizabeth",
+      "surname": "Bennet",
+      "city": "Hertfordshire",
+      "email": "elizabeth.bennet@example.com",
+      "telephone": "555-3691"
+    },
+    {
+      "id": 9,
+      "firstName": "Harry",
+      "surname": "Potter",
+      "city": "Hogwarts",
+      "email": "harry.potter@example.com",
+      "telephone": "555-9753"
+    },
+    {
+      "id": 10,
+      "firstName": "Captain",
+      "surname": "America",
+      "city": "New York",
+      "email": "captain.america@example.com",
+      "telephone": "555-8026"
+    },
+    {
+        "id": 11,
+        "firstName": "Lara",
+        "surname": "Croft",
+        "city": "London",
+        "email": "lara.croft@example.com",
+        "telephone": "555-2468"
+      },
+      {
+        "id": 12,
+        "firstName": "Dexter",
+        "surname": "Morgan",
+        "city": "Miami",
+        "email": "dexter.morgan@example.com",
+        "telephone": "555-1357"
+      },
+      {
+        "id": 13,
+        "firstName": "Eleven",
+        "surname": "Hopper",
+        "city": "Hawkins",
+        "email": "eleven.hopper@example.com",
+        "telephone": "555-8642"
+      }
+  ]
+}
