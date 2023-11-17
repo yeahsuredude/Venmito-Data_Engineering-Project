@@ -47,7 +47,7 @@ Thank you,
 
 Venmito
 
-DISCLAIMER:
+## DISCLAIMER:
 
 This project and its contents are the exclusive property of Xtillion and are intended solely for the evaluation of the individual to whom it was provided. Any distribution, reproduction, or unauthorized use is strictly prohibited. By accessing and using this project, you agree to abide by these conditions. Failure to comply with these terms may result in legal action.
 
