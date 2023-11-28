@@ -36,10 +36,9 @@ Your task is to develop a solution that can read these files, match and conform 
 
 ## Instructions for Submission
 
-1. Fork this repository to your personal Github account.
-2. Complete your project as described above within your fork.
-3. Write a detailed README file that explains your approach, the technologies you used, and provides clear instructions on how to run your code.
-4. Submit your project by creating a pull request to this repository.
+1. Complete your project as described above within your fork.
+2. Write a detailed README file that explains your approach, the technologies you used, and provides clear instructions on how to run your code.
+3. Submit your project by creating a pull request to this repository.
 
 We look forward to seeing your solution!
 
