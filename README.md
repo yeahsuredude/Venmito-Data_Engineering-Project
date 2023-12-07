@@ -24,15 +24,19 @@ Your task is to develop a solution that can read these files, match and conform 
 
 2. **Data Matching and Conforming**: Once the data is loaded, your solution should be able to match and conform the data across these files. This means identifying common entities, resolving inconsistencies, and organizing the data in a unified format.
 
-3. **Data Output**: The final component of your solution should provide a way for us to consume the newly organized data. This could be through a command line interface (CLI), a database with structured schemas, a GUI showing interactive visualizations, a RESTful API, or any other method that you think would be appropriate for a company like Venmito.
+3. **Data Analysis**: Your solution should be able to process the conformed data to derive insights about our clients and transactions. This would involve implementing data aggregations, calculating relevant metrics, and identifying patterns. These insights will be invaluable in helping us understand our clientele and transaction trends better.
 
-4. **Code**: Your solution should be well-structured and easy to understand. Please include comments where necessary. The code will be part of the final deliverable.
+4. **Data Output**: The final output of your solution should enable us to consume the reorganized and analyzed data in a meaningful way. This could be, but is not restricted to, a command line interface (CLI), a database with structured schemas, a GUI featuring interactive visualizations, or a RESTful API. We invite you to leverage other innovative methods that you believe would be beneficial for a company like Venmito.
+
+5. **Code**: The code for your solution should be well-structured and comprehensible, with comments included where necessary. Remember, the quality and readability of the code will be a significant factor in the evaluation of the final deliverable.
+
+Note: The examples provided in these requirements (such as GUI, RESTful API etc.) are purely illustrative. You are free to employ any solution or technology you deem fit for fulfilling these requirements
 
 ## Deliverables
 
-- Source code.
-- A README file that describes your solution, your design decisions, and clear instructions on how to run your code.
-- A method to consume the data.
+1. Source code.
+2. A README file that describes your solution, your design decisions, and clear instructions on how to run your code.
+3. A method to consume the reorganized and analyzed data.
 
 ## Instructions for Submission
 
