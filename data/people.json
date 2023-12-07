@@ -181,13 +181,13 @@
       "telephone": "555-2163"
     },
     {
-      "id": "0031",
-      "firstName": "Nicholas",
+      "id": "0032",
+      "firstName": "Claire",
       "surname": "Dickens",
-      "email": "nicholas.dickens@example.com",
-      "city": "Chicago",
-      "country": "United States",
-      "telephone": "555-5595"
+      "email": "claire.dickens@example.com",
+      "city": "Paris",
+      "country": "France",
+      "telephone": "555-1130"
     },
     {
       "id": "0033",
