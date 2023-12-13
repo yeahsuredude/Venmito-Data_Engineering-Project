@@ -38,6 +38,18 @@ Note: The examples provided in these requirements (such as GUI, RESTful API etc.
 2. A README file that describes your solution, your design decisions, and clear instructions on how to run your code.
 3. A method to consume the reorganized and analyzed data.
 
+## Venmito Needs:
+
+We want to be able to see:
+1. Which clients have what type of promotion?
+2. Give suggestions on how to turn "No" respones from clients in the promotions file?
+3. Insights on stores, like:
+    - What item is the best seller?
+    - What store has had the most profit?
+    - Etc.
+- **Bonus**:
+    - How can we use the data we got from the transfers file?
+
 ## Instructions for Submission
 
 1. Complete your project as described above within your fork.
