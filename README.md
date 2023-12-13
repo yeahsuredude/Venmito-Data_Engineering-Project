@@ -38,9 +38,9 @@ Note: The examples provided in these requirements (such as GUI, RESTful API etc.
 2. A README file that describes your solution, your design decisions, and clear instructions on how to run your code.
 3. A method to consume the reorganized and analyzed data.
 
-## Client Needs:
+## Venmito Needs:
 
-The client wants to be able to see:
+We want to be able to see:
 1. Which clients have what type of promotion?
 2. Give suggestions on how to turn "No" respones from clients in the promotions file?
 3. Insights on stores, like:
