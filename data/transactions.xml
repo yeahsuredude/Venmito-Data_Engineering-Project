@@ -23,7 +23,7 @@
   <transaction id="1003">
     <buyer_name>O. Howard</buyer_name>
     <item>mango</item>
-    <price>3</price>
+    <price>4.5</price>
     <store>Whimsical Willow Wares</store>
     <transactionDate>2021-06-06</transactionDate>
   </transaction>
