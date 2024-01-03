@@ -26,7 +26,7 @@ Your task is to develop a solution that can read these files, match and conform 
 
 3. **Data Analysis**: Your solution should be able to process the conformed data to derive insights about our clients and transactions. This would involve implementing data aggregations, calculating relevant metrics, and identifying patterns. These insights will be invaluable in helping us understand our clientele and transaction trends better.
 
-4. **Data Output**: The final output of your solution should enable us to consume the reorganized and analyzed data in a meaningful way. This could be, but is not restricted to, a command line interface (CLI), a database with structured schemas, a GUI featuring interactive visualizations, or a RESTful API. We invite you to leverage other innovative methods that you believe would be beneficial for a company like Venmito.
+4. **Data Output**: The final output of your solution should enable us to consume the reorganized and analyzed data in a meaningful way. This could be, but is not restricted to, a command line interface (CLI), a database with structured schemas, a GUI featuring interactive visualizations, a Jupyter Notebook, or a RESTful API. We invite you to leverage other innovative methods that you believe would be beneficial for a company like Venmito.
 
 5. **Code**: The code for your solution should be well-structured and comprehensible, with comments included where necessary. Remember, the quality and readability of the code will be a significant factor in the evaluation of the final deliverable.
 
@@ -35,7 +35,7 @@ Note: The examples provided in these requirements (such as GUI, RESTful API etc.
 ## Deliverables
 
 1. Source code.
-2. A README file that describes your solution, your design decisions, and clear instructions on how to run your code.
+2. A README file with your name, email, a description of your solution, your design decisions, and clear instructions on how to run your code.
 3. A method to consume the reorganized and analyzed data.
 
 ## Venmito Needs:
@@ -53,7 +53,7 @@ We want to be able to see:
 ## Instructions for Submission
 
 1. Complete your project as described above within your fork.
-2. Write a detailed README file that explains your approach, the technologies you used, and provides clear instructions on how to run your code.
+2. Write a detailed README file with your name, email, a description explaining your approach, the technologies you used, and provides clear instructions on how to run your code.
 3. Submit your project by creating a pull request to this repository.
 
 We look forward to seeing your solution!
