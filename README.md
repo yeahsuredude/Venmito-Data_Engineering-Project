@@ -22,7 +22,7 @@ Your task is to develop a solution that can read these files, match and conform 
 
 1. **Data Ingestion**: Your solution should be able to read and load data from all the provided files. Take into account that these files are in different formats (JSON, YAML, CSV, XML).
 
-2. **Data Matching and Conforming**: Once the data is loaded, your solution should be able to match and conform the data across these files. This means identifying common entities, resolving inconsistencies, and organizing the data in a unified format.
+2. **Data Matching and Conforming**: Once the data is loaded, your solution should be capable of matching and conforming the data across these files. This includes identification of common entities, resolution of inconsistencies, and organization of the data into a unified format. Furthermore, the consolidated data should not only be transient but also persistent. This persistence should be achieved using appropriate methods such as storing in a file, database, or other suitable data storage solutions, and not restricted to just a variable in memory. This way, the integrity and availability of the consolidated data are ensured for future use and analysis.
 
 3. **Data Analysis**: Your solution should be able to process the conformed data to derive insights about our clients and transactions. This would involve implementing data aggregations, calculating relevant metrics, and identifying patterns. These insights will be invaluable in helping us understand our clientele and transaction trends better.
 
