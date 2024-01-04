@@ -5,675 +5,1101 @@
       "firstName": "Tim",
       "surname": "Arnold",
       "email": "tim.arnold@example.com",
-      "city": "Dallas",
-      "country": "United States",
-      "telephone": "555-4147"
+      "location": {
+        "city": "Dallas",
+        "country": "United States"
+      },
+      "telephone": "555-4147",
+      "devices": [
+        "Android",
+        "iPhone",
+        "Website"
+      ]
     },
     {
       "id": "0004",
       "firstName": "Jane",
       "surname": "Springer",
       "email": "jane.springer@example.com",
-      "city": "Khartoum",
-      "country": "Sudan",
-      "telephone": "555-9575"
+      "location": {
+        "city": "Khartoum",
+        "country": "Sudan"
+      },
+      "telephone": "555-9575",
+      "devices": [
+        "Android",
+        "Website"
+      ]
     },
     {
       "id": "0006",
       "firstName": "Michael",
       "surname": "McGrath",
       "email": "michael.mcgrath@example.com",
-      "city": "Rio de Janeiro",
-      "country": "Brazil",
-      "telephone": "555-8448"
+      "location": {
+        "city": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      "telephone": "555-8448",
+      "devices": [
+        "iPhone"
+      ]
     },
     {
       "id": "0008",
       "firstName": "Leah",
       "surname": "Piper",
       "email": "leah.piper@example.com",
-      "city": "Harbin",
-      "country": "China",
-      "telephone": "555-8366"
+      "location": {
+        "city": "Harbin",
+        "country": "China"
+      },
+      "telephone": "555-8366",
+      "devices": [
+        "iPhone"
+      ]
     },
     {
       "id": "0009",
       "firstName": "Julia",
       "surname": "Murray",
       "email": "julia.murray@example.com",
-      "city": "Fukuoka",
-      "country": "Japan",
-      "telephone": "555-3555"
+      "location": {
+        "city": "Fukuoka",
+        "country": "Japan"
+      },
+      "telephone": "555-3555",
+      "devices": [
+        "Android",
+        "Website"
+      ]
     },
     {
       "id": "0010",
       "firstName": "Alexander",
       "surname": "James",
       "email": "alexander.james@example.com",
-      "city": "Cairo",
-      "country": "Egypt",
-      "telephone": "555-6536"
+      "location": {
+        "city": "Cairo",
+        "country": "Egypt"
+      },
+      "telephone": "555-6536",
+      "devices": [
+        "Android",
+        "iPhone",
+        "Website"
+      ]
     },
     {
       "id": "0012",
       "firstName": "Christian",
       "surname": "Jackson",
       "email": "christian.jackson@example.com",
-      "city": "Washington",
-      "country": "United States",
-      "telephone": "555-6080"
+      "location": {
+        "city": "Washington",
+        "country": "United States"
+      },
+      "telephone": "555-6080",
+      "devices": [
+        "Android",
+        "iPhone"
+      ]
     },
     {
       "id": "0014",
       "firstName": "Abigail",
       "surname": "Allan",
       "email": "abigail.allan@example.com",
-      "city": "Yangon",
-      "country": "Myanmar",
-      "telephone": "555-8008"
+      "location": {
+        "city": "Yangon",
+        "country": "Myanmar"
+      },
+      "telephone": "555-8008",
+      "devices": [
+        "Android",
+        "iPhone"
+      ]
     },
     {
       "id": "0015",
       "firstName": "Claire",
       "surname": "Abraham",
       "email": "claire.abraham@example.com",
-      "city": "Rio de Janeiro",
-      "country": "Brazil",
-      "telephone": "555-1584"
+      "location": {
+        "city": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      "telephone": "555-1584",
+      "devices": [
+        "Android",
+        "iPhone"
+      ]
     },
     {
       "id": "0016",
       "firstName": "Jack",
       "surname": "May",
       "email": "jack.may@example.com",
-      "city": "Alexandria",
-      "country": "Egypt",
-      "telephone": "555-1590"
+      "location": {
+        "city": "Alexandria",
+        "country": "Egypt"
+      },
+      "telephone": "555-1590",
+      "devices": [
+        "Android",
+        "iPhone",
+        "Website"
+      ]
     },
     {
       "id": "0018",
       "firstName": "Steven",
       "surname": "Hunter",
       "email": "steven.hunter@example.com",
-      "city": "Buenos Aires",
-      "country": "Argentina",
-      "telephone": "555-7607"
+      "location": {
+        "city": "Buenos Aires",
+        "country": "Argentina"
+      },
+      "telephone": "555-7607",
+      "devices": [
+        "Website"
+      ]
     },
     {
       "id": "0020",
       "firstName": "Carl",
       "surname": "Sanderson",
       "email": "carl.sanderson@example.com",
-      "city": "Chongqing",
-      "country": "China",
-      "telephone": "555-4014"
+      "location": {
+        "city": "Chongqing",
+        "country": "China"
+      },
+      "telephone": "555-4014",
+      "devices": [
+        "Android",
+        "Website"
+      ]
     },
     {
       "id": "0021",
       "firstName": "Albert",
       "surname": "Morrison",
       "email": "albert.morrison@example.com",
-      "city": "New York City",
-      "country": "United States",
-      "telephone": "555-4909"
+      "location": {
+        "city": "New York City",
+        "country": "United States"
+      },
+      "telephone": "555-4909",
+      "devices": [
+        "iPhone"
+      ]
     },
     {
       "id": "0022",
       "firstName": "Jake",
       "surname": "Lambert",
       "email": "jake.lambert@example.com",
-      "city": "Bangalore",
-      "country": "India",
-      "telephone": "555-9218"
+      "location": {
+        "city": "Bangalore",
+        "country": "India"
+      },
+      "telephone": "555-9218",
+      "devices": [
+        "Android"
+      ]
     },
     {
       "id": "0024",
       "firstName": "Lily",
       "surname": "Burgess",
       "email": "lily.burgess@example.com",
-      "city": "Dhaka",
-      "country": "Bangladesh",
-      "telephone": "555-6484"
+      "location": {
+        "city": "Dhaka",
+        "country": "Bangladesh"
+      },
+      "telephone": "555-6484",
+      "devices": [
+        "Android",
+        "iPhone",
+        "Website"
+      ]
     },
     {
       "id": "0025",
       "firstName": "Maria",
       "surname": "Taylor",
       "email": "maria.taylor@example.com",
-      "city": "Wuhan",
-      "country": "China",
-      "telephone": "555-1480"
+      "location": {
+        "city": "Wuhan",
+        "country": "China"
+      },
+      "telephone": "555-1480",
+      "devices": [
+        "Website"
+      ]
     },
     {
       "id": "0026",
       "firstName": "Blake",
       "surname": "Sutherland",
       "email": "blake.sutherland@example.com",
-      "city": "Surat",
-      "country": "India",
-      "telephone": "555-1551"
+      "location": {
+        "city": "Surat",
+        "country": "India"
+      },
+      "telephone": "555-1551",
+      "devices": [
+        "Website"
+      ]
     },
     {
       "id": "0027",
       "firstName": "Sean",
       "surname": "Hodges",
       "email": "sean.hodges@example.com",
-      "city": "Mexico City",
-      "country": "Mexico",
-      "telephone": "555-4187"
+      "location": {
+        "city": "Mexico City",
+        "country": "Mexico"
+      },
+      "telephone": "555-4187",
+      "devices": [
+        "Android"
+      ]
     },
     {
       "id": "0028",
       "firstName": "Julia",
       "surname": "Coleman",
       "email": "julia.coleman@example.com",
-      "city": "London",
-      "country": "United Kingdom",
-      "telephone": "555-4073"
+      "location": {
+        "city": "London",
+        "country": "United Kingdom"
+      },
+      "telephone": "555-4073",
+      "devices": [
+        "Website"
+      ]
     },
     {
       "id": "0030",
       "firstName": "Samantha",
       "surname": "Carr",
       "email": "samantha.carr@example.com",
-      "city": "Delhi",
-      "country": "India",
-      "telephone": "555-2163"
+      "location": {
+        "city": "Delhi",
+        "country": "India"
+      },
+      "telephone": "555-2163",
+      "devices": [
+        "Android",
+        "iPhone",
+        "Website"
+      ]
     },
     {
       "id": "0032",
       "firstName": "Claire",
       "surname": "Dickens",
       "email": "claire.dickens@example.com",
-      "city": "Paris",
-      "country": "France",
-      "telephone": "555-1130"
+      "location": {
+        "city": "Paris",
+        "country": "France"
+      },
+      "telephone": "555-1130",
+      "devices": [
+        "Android"
+      ]
     },
     {
       "id": "0033",
       "firstName": "Faith",
       "surname": "Simpson",
       "email": "faith.simpson@example.com",
-      "city": "Kinshasa",
-      "country": "DR Congo",
-      "telephone": "555-1643"
+      "location": {
+        "city": "Kinshasa",
+        "country": "DR Congo"
+      },
+      "telephone": "555-1643",
+      "devices": [
+        "Android",
+        "iPhone"
+      ]
     },
     {
       "id": "0034",
       "firstName": "Sam",
       "surname": "Wright",
       "email": "sam.wright@example.com",
-      "city": "Karachi",
-      "country": "Pakistan",
-      "telephone": "555-6633"
+      "location": {
+        "city": "Karachi",
+        "country": "Pakistan"
+      },
+      "telephone": "555-6633",
+      "devices": [
+        "Android"
+      ]
     },
     {
       "id": "0035",
       "firstName": "William",
       "surname": "Mills",
       "email": "william.mills@example.com",
-      "city": "Chongqing",
-      "country": "China",
-      "telephone": "555-5512"
+      "location": {
+        "city": "Chongqing",
+        "country": "China"
+      },
+      "telephone": "555-5512",
+      "devices": [
+        "Android",
+        "Website"
+      ]
     },
     {
       "id": "0036",
       "firstName": "Keith",
       "surname": "Thomson",
       "email": "keith.thomson@example.com",
-      "city": "Kolkata",
-      "country": "India",
-      "telephone": "555-6813"
+      "location": {
+        "city": "Kolkata",
+        "country": "India"
+      },
+      "telephone": "555-6813",
+      "devices": [
+        "Android",
+        "iPhone",
+        "Website"
+      ]
     },
     {
       "id": "0038",
       "firstName": "Alexandra",
       "surname": "Walker",
       "email": "alexandra.walker@example.com",
-      "city": "Nagoya",
-      "country": "Japan",
-      "telephone": "555-2172"
+      "location": {
+        "city": "Nagoya",
+        "country": "Japan"
+      },
+      "telephone": "555-2172",
+      "devices": [
+        "Website"
+      ]
     },
     {
       "id": "0039",
       "firstName": "Bella",
       "surname": "Reid",
       "email": "bella.reid@example.com",
-      "city": "Delhi",
-      "country": "India",
-      "telephone": "555-5653"
+      "location": {
+        "city": "Delhi",
+        "country": "India"
+      },
+      "telephone": "555-5653",
+      "devices": [
+        "iPhone"
+      ]
     },
     {
       "id": "0040",
       "firstName": "Dominic",
       "surname": "Ogden",
       "email": "dominic.ogden@example.com",
-      "city": "Harbin",
-      "country": "China",
-      "telephone": "555-5726"
+      "location": {
+        "city": "Harbin",
+        "country": "China"
+      },
+      "telephone": "555-5726",
+      "devices": [
+        "iPhone"
+      ]
     },
     {
       "id": "0042",
       "firstName": "Anne",
       "surname": "Duncan",
       "email": "anne.duncan@example.com",
-      "city": "Tokyo",
-      "country": "Japan",
-      "telephone": "555-9797"
+      "location": {
+        "city": "Tokyo",
+        "country": "Japan"
+      },
+      "telephone": "555-9797",
+      "devices": [
+        "Android",
+        "iPhone",
+        "Website"
+      ]
     },
     {
       "id": "0044",
       "firstName": "Jacob",
       "surname": "Bower",
       "email": "jacob.bower@example.com",
-      "city": "Dhaka",
-      "country": "Bangladesh",
-      "telephone": "555-5398"
+      "location": {
+        "city": "Dhaka",
+        "country": "Bangladesh"
+      },
+      "telephone": "555-5398",
+      "devices": [
+        "Android",
+        "iPhone",
+        "Website"
+      ]
     },
     {
       "id": "0045",
       "firstName": "Abigail",
       "surname": "MacLeod",
       "email": "abigail.macleod@example.com",
-      "city": "Shenyang",
-      "country": "China",
-      "telephone": "555-5065"
+      "location": {
+        "city": "Shenyang",
+        "country": "China"
+      },
+      "telephone": "555-5065",
+      "devices": [
+        "iPhone"
+      ]
     },
     {
       "id": "0046",
       "firstName": "Joseph",
       "surname": "Simpson",
       "email": "joseph.simpson@example.com",
-      "city": "Madrid",
-      "country": "Spain",
-      "telephone": "555-6638"
+      "location": {
+        "city": "Madrid",
+        "country": "Spain"
+      },
+      "telephone": "555-6638",
+      "devices": [
+        "Website"
+      ]
     },
     {
       "id": "0048",
       "firstName": "Elizabeth",
       "surname": "Ross",
       "email": "elizabeth.ross@example.com",
-      "city": "Kolkata",
-      "country": "India",
-      "telephone": "555-5323"
+      "location": {
+        "city": "Kolkata",
+        "country": "India"
+      },
+      "telephone": "555-5323",
+      "devices": [
+        "Website"
+      ]
     },
     {
       "id": "0049",
       "firstName": "Boris",
       "surname": "Davies",
       "email": "boris.davies@example.com",
-      "city": "Saint Petersburg",
-      "country": "Russia",
-      "telephone": "555-6642"
+      "location": {
+        "city": "Saint Petersburg",
+        "country": "Russia"
+      },
+      "telephone": "555-6642",
+      "devices": [
+        "Website"
+      ]
     },
     {
       "id": "0050",
       "firstName": "Colin",
       "surname": "Watson",
       "email": "colin.watson@example.com",
-      "city": "Houston",
-      "country": "United States",
-      "telephone": "555-1755"
+      "location": {
+        "city": "Houston",
+        "country": "United States"
+      },
+      "telephone": "555-1755",
+      "devices": [
+        "iPhone"
+      ]
     },
     {
       "id": "0051",
       "firstName": "Michael",
       "surname": "Howard",
       "email": "michael.howard@example.com",
-      "city": "Chicago",
-      "country": "United States",
-      "telephone": "555-6975"
+      "location": {
+        "city": "Chicago",
+        "country": "United States"
+      },
+      "telephone": "555-6975",
+      "devices": [
+        "iPhone"
+      ]
     },
     {
       "id": "0052",
       "firstName": "Gavin",
       "surname": "Dickens",
       "email": "gavin.dickens@example.com",
-      "city": "Jakarta",
-      "country": "Indonesia",
-      "telephone": "555-5049"
+      "location": {
+        "city": "Jakarta",
+        "country": "Indonesia"
+      },
+      "telephone": "555-5049",
+      "devices": [
+        "Android"
+      ]
     },
     {
       "id": "0054",
       "firstName": "Tracey",
       "surname": "Lyman",
       "email": "tracey.lyman@example.com",
-      "city": "Guadalajara",
-      "country": "Mexico",
-      "telephone": "555-6749"
+      "location": {
+        "city": "Guadalajara",
+        "country": "Mexico"
+      },
+      "telephone": "555-6749",
+      "devices": [
+        "iPhone"
+      ]
     },
     {
       "id": "0055",
       "firstName": "Sam",
       "surname": "Scott",
       "email": "sam.scott@example.com",
-      "city": "Wuhan",
-      "country": "China",
-      "telephone": "555-1561"
+      "location": {
+        "city": "Wuhan",
+        "country": "China"
+      },
+      "telephone": "555-1561",
+      "devices": [
+        "Android",
+        "iPhone",
+        "Website"
+      ]
     },
     {
       "id": "0056",
       "firstName": "Megan",
       "surname": "Wilkins",
       "email": "megan.wilkins@example.com",
-      "city": "Hyderabad",
-      "country": "India",
-      "telephone": "555-8833"
+      "location": {
+        "city": "Hyderabad",
+        "country": "India"
+      },
+      "telephone": "555-8833",
+      "devices": [
+        "iPhone"
+      ]
     },
     {
       "id": "0057",
       "firstName": "Jennifer",
       "surname": "Smith",
       "email": "jennifer.smith@example.com",
-      "city": "Dongguan",
-      "country": "China",
-      "telephone": "555-5688"
+      "location": {
+        "city": "Dongguan",
+        "country": "China"
+      },
+      "telephone": "555-5688",
+      "devices": [
+        "Android"
+      ]
     },
     {
       "id": "0058",
       "firstName": "Gabrielle",
       "surname": "Wright",
       "email": "gabrielle.wright@example.com",
-      "city": "Hangzhou",
-      "country": "China",
-      "telephone": "555-3128"
+      "location": {
+        "city": "Hangzhou",
+        "country": "China"
+      },
+      "telephone": "555-3128",
+      "devices": [
+        "iPhone",
+        "Website"
+      ]
     },
     {
       "id": "0060",
       "firstName": "Emily",
       "surname": "Hughes",
       "email": "emily.hughes@example.com",
-      "city": "Harbin",
-      "country": "China",
-      "telephone": "555-1052"
+      "location": {
+        "city": "Harbin",
+        "country": "China"
+      },
+      "telephone": "555-1052",
+      "devices": [
+        "iPhone",
+        "Website"
+      ]
     },
     {
       "id": "0062",
       "firstName": "Dorothy",
       "surname": "Peake",
       "email": "dorothy.peake@example.com",
-      "city": "Lahore",
-      "country": "Pakistan",
-      "telephone": "555-8309"
+      "location": {
+        "city": "Lahore",
+        "country": "Pakistan"
+      },
+      "telephone": "555-8309",
+      "devices": [
+        "Website"
+      ]
     },
     {
       "id": "0063",
       "firstName": "Jennifer",
       "surname": "MacLeod",
       "email": "jennifer.macleod@example.com",
-      "city": "Lima",
-      "country": "Peru",
-      "telephone": "555-1124"
+      "location": {
+        "city": "Lima",
+        "country": "Peru"
+      },
+      "telephone": "555-1124",
+      "devices": [
+        "Android"
+      ]
     },
     {
       "id": "0064",
       "firstName": "Dylan",
       "surname": "Blake",
       "email": "dylan.blake@example.com",
-      "city": "Kolkata",
-      "country": "India",
-      "telephone": "555-2801"
+      "location": {
+        "city": "Kolkata",
+        "country": "India"
+      },
+      "telephone": "555-2801",
+      "devices": [
+        "Website"
+      ]
     },
     {
       "id": "0065",
       "firstName": "Katherine",
       "surname": "Butler",
       "email": "katherine.butler@example.com",
-      "city": "Shanghai",
-      "country": "China",
-      "telephone": "555-2311"
+      "location": {
+        "city": "Shanghai",
+        "country": "China"
+      },
+      "telephone": "555-2311",
+      "devices": [
+        "iPhone",
+        "Website"
+      ]
     },
     {
       "id": "0066",
       "firstName": "Adam",
       "surname": "Wilson",
       "email": "adam.wilson@example.com",
-      "city": "Nagoya",
-      "country": "Japan",
-      "telephone": "555-3416"
+      "location": {
+        "city": "Nagoya",
+        "country": "Japan"
+      },
+      "telephone": "555-3416",
+      "devices": [
+        "Website"
+      ]
     },
     {
       "id": "0068",
       "firstName": "Joan",
       "surname": "Blake",
       "email": "joan.blake@example.com",
-      "city": "Shenzhen",
-      "country": "China",
-      "telephone": "555-8661"
+      "location": {
+        "city": "Shenzhen",
+        "country": "China"
+      },
+      "telephone": "555-8661",
+      "devices": [
+        "Android",
+        "iPhone"
+      ]
     },
     {
       "id": "0069",
       "firstName": "Jonathan",
       "surname": "Rees",
       "email": "jonathan.rees@example.com",
-      "city": "Qingdao",
-      "country": "China",
-      "telephone": "555-5621"
+      "location": {
+        "city": "Qingdao",
+        "country": "China"
+      },
+      "telephone": "555-5621",
+      "devices": [
+        "Android",
+        "iPhone",
+        "Website"
+      ]
     },
     {
       "id": "0070",
       "firstName": "Sean",
       "surname": "Taylor",
       "email": "sean.taylor@example.com",
-      "city": "Washington",
-      "country": "United States",
-      "telephone": "555-7998"
+      "location": {
+        "city": "Washington",
+        "country": "United States"
+      },
+      "telephone": "555-7998",
+      "devices": [
+        "iPhone",
+        "Website"
+      ]
     },
     {
       "id": "0072",
       "firstName": "Adrian",
       "surname": "Wright",
       "email": "adrian.wright@example.com",
-      "city": "Hangzhou",
-      "country": "China",
-      "telephone": "555-7727"
+      "location": {
+        "city": "Hangzhou",
+        "country": "China"
+      },
+      "telephone": "555-7727",
+      "devices": [
+        "Android",
+        "iPhone"
+      ]
     },
     {
       "id": "0074",
       "firstName": "James",
       "surname": "Abraham",
       "email": "james.abraham@example.com",
-      "city": "Hong Kong",
-      "country": "China",
-      "telephone": "555-1534"
+      "location": {
+        "city": "Hong Kong",
+        "country": "China"
+      },
+      "telephone": "555-1534",
+      "devices": [
+        "iPhone"
+      ]
     },
     {
       "id": "0075",
       "firstName": "Dominic",
       "surname": "Nolan",
       "email": "dominic.nolan@example.com",
-      "city": "Belo Horizonte",
-      "country": "Brazil",
-      "telephone": "555-3029"
+      "location": {
+        "city": "Belo Horizonte",
+        "country": "Brazil"
+      },
+      "telephone": "555-3029",
+      "devices": [
+        "Android"
+      ]
     },
     {
       "id": "0076",
       "firstName": "Rachel",
       "surname": "MacDonald",
       "email": "rachel.macdonald@example.com",
-      "city": "Tianjin",
-      "country": "China",
-      "telephone": "555-3354"
+      "location": {
+        "city": "Tianjin",
+        "country": "China"
+      },
+      "telephone": "555-3354",
+      "devices": [
+        "Android",
+        "iPhone"
+      ]
     },
     {
       "id": "0077",
       "firstName": "Owen",
       "surname": "Howard",
       "email": "owen.howard@example.com",
-      "city": "Los Angeles",
-      "country": "United States",
-      "telephone": "555-5006"
+      "location": {
+        "city": "Los Angeles",
+        "country": "United States"
+      },
+      "telephone": "555-5006",
+      "devices": [
+        "Android",
+        "iPhone"
+      ]
     },
     {
       "id": "0078",
       "firstName": "Jake",
       "surname": "Morrison",
       "email": "jake.morrison@example.com",
-      "city": "Chennai",
-      "country": "India",
-      "telephone": "555-6628"
+      "location": {
+        "city": "Chennai",
+        "country": "India"
+      },
+      "telephone": "555-6628",
+      "devices": [
+        "Android",
+        "Website"
+      ]
     },
     {
       "id": "0080",
       "firstName": "Brian",
       "surname": "Buckland",
       "email": "brian.buckland@example.com",
-      "city": "Kinshasa",
-      "country": "DR Congo",
-      "telephone": "555-2660"
+      "location": {
+        "city": "Kinshasa",
+        "country": "DR Congo"
+      },
+      "telephone": "555-2660",
+      "devices": [
+        "Android",
+        "Website"
+      ]
     },
     {
       "id": "0081",
       "firstName": "Paul",
       "surname": "Terry",
       "email": "paul.terry@example.com",
-      "city": "Paris",
-      "country": "France",
-      "telephone": "555-4652"
+      "location": {
+        "city": "Paris",
+        "country": "France"
+      },
+      "telephone": "555-4652",
+      "devices": [
+        "iPhone"
+      ]
     },
     {
       "id": "0082",
       "firstName": "Gordon",
       "surname": "Abraham",
       "email": "gordon.abraham@example.com",
-      "city": "Ahmedabad",
-      "country": "India",
-      "telephone": "555-8131"
+      "location": {
+        "city": "Ahmedabad",
+        "country": "India"
+      },
+      "telephone": "555-8131",
+      "devices": [
+        "Android",
+        "Website"
+      ]
     },
     {
       "id": "0084",
       "firstName": "Deirdre",
       "surname": "Burgess",
       "email": "deirdre.burgess@example.com",
-      "city": "Bangkok",
-      "country": "Thailand",
-      "telephone": "555-9092"
+      "location": {
+        "city": "Bangkok",
+        "country": "Thailand"
+      },
+      "telephone": "555-9092",
+      "devices": [
+        "Android",
+        "iPhone",
+        "Website"
+      ]
     },
     {
       "id": "0085",
       "firstName": "Anthony",
       "surname": "Hunter",
       "email": "anthony.hunter@example.com",
-      "city": "Kolkata",
-      "country": "India",
-      "telephone": "555-5332"
+      "location": {
+        "city": "Kolkata",
+        "country": "India"
+      },
+      "telephone": "555-5332",
+      "devices": [
+        "Android",
+        "iPhone",
+        "Website"
+      ]
     },
     {
       "id": "0086",
       "firstName": "Stephen",
       "surname": "Brown",
       "email": "stephen.brown@example.com",
-      "city": "Chongqing",
-      "country": "China",
-      "telephone": "555-7889"
+      "location": {
+        "city": "Chongqing",
+        "country": "China"
+      },
+      "telephone": "555-7889",
+      "devices": [
+        "Android"
+      ]
     },
     {
       "id": "0087",
       "firstName": "Donna",
       "surname": "Hudson",
       "email": "donna.hudson@example.com",
-      "city": "Guangzhou",
-      "country": "China",
-      "telephone": "555-2202"
+      "location": {
+        "city": "Guangzhou",
+        "country": "China"
+      },
+      "telephone": "555-2202",
+      "devices": [
+        "Android"
+      ]
     },
     {
       "id": "0088",
       "firstName": "Stewart",
       "surname": "Slater",
       "email": "stewart.slater@example.com",
-      "city": "Guadalajara",
-      "country": "Mexico",
-      "telephone": "555-8235"
+      "location": {
+        "city": "Guadalajara",
+        "country": "Mexico"
+      },
+      "telephone": "555-8235",
+      "devices": [
+        "iPhone",
+        "Website"
+      ]
     },
     {
       "id": "0090",
       "firstName": "Christian",
       "surname": "Hardacre",
       "email": "christian.hardacre@example.com",
-      "city": "Shanghai",
-      "country": "China",
-      "telephone": "555-9468"
+      "location": {
+        "city": "Shanghai",
+        "country": "China"
+      },
+      "telephone": "555-9468",
+      "devices": [
+        "Website"
+      ]
     },
     {
       "id": "0091",
       "firstName": "Bella",
       "surname": "Arnold",
       "email": "bella.arnold@example.com",
-      "city": "Alexandria",
-      "country": "Egypt",
-      "telephone": "555-6026"
+      "location": {
+        "city": "Alexandria",
+        "country": "Egypt"
+      },
+      "telephone": "555-6026",
+      "devices": [
+        "Website"
+      ]
     },
     {
       "id": "0092",
       "firstName": "Mary",
       "surname": "Clark",
       "email": "mary.clark@example.com",
-      "city": "Seoul",
-      "country": "South Korea",
-      "telephone": "555-4626"
+      "location": {
+        "city": "Seoul",
+        "country": "South Korea"
+      },
+      "telephone": "555-4626",
+      "devices": [
+        "Android"
+      ]
     },
     {
       "id": "0093",
       "firstName": "Pippa",
       "surname": "Tucker",
       "email": "pippa.tucker@example.com",
-      "city": "Chicago",
-      "country": "United States",
-      "telephone": "555-1277"
+      "location": {
+        "city": "Chicago",
+        "country": "United States"
+      },
+      "telephone": "555-1277",
+      "devices": [
+        "Android",
+        "Website"
+      ]
     },
     {
       "id": "0094",
       "firstName": "Michael",
       "surname": "Payne",
       "email": "michael.payne@example.com",
-      "city": "Houston",
-      "country": "United States",
-      "telephone": "555-2600"
+      "location": {
+        "city": "Houston",
+        "country": "United States"
+      },
+      "telephone": "555-2600",
+      "devices": [
+        "Android",
+        "Website"
+      ]
     },
     {
       "id": "0095",
       "firstName": "John",
       "surname": "Scott",
       "email": "john.scott@example.com",
-      "city": "Guadalajara",
-      "country": "Mexico",
-      "telephone": "555-8564"
+      "location": {
+        "city": "Guadalajara",
+        "country": "Mexico"
+      },
+      "telephone": "555-8564",
+      "devices": [
+        "iPhone"
+      ]
     },
     {
       "id": "0096",
       "firstName": "Alan",
       "surname": "Chapman",
       "email": "alan.chapman@example.com",
-      "city": "Shanghai",
-      "country": "China",
-      "telephone": "555-9610"
+      "location": {
+        "city": "Shanghai",
+        "country": "China"
+      },
+      "telephone": "555-9610",
+      "devices": [
+        "Android",
+        "Website"
+      ]
     },
     {
       "id": "0098",
       "firstName": "Phil",
       "surname": "Davies",
       "email": "phil.davies@example.com",
-      "city": "Qingdao",
-      "country": "China",
-      "telephone": "555-8510"
+      "location": {
+        "city": "Qingdao",
+        "country": "China"
+      },
+      "telephone": "555-8510",
+      "devices": [
+        "Android",
+        "Website"
+      ]
     },
     {
       "id": "0099",
       "firstName": "Pippa",
       "surname": "Wilson",
       "email": "pippa.wilson@example.com",
-      "city": "Houston",
-      "country": "United States",
-      "telephone": "555-8292"
+      "location": {
+        "city": "Houston",
+        "country": "United States"
+      },
+      "telephone": "555-8292",
+      "devices": [
+        "iPhone",
+        "Website"
+      ]
     },
     {
       "id": "0100",
       "firstName": "Alan",
       "surname": "Carr",
       "email": "alan.carr@example.com",
-      "city": "Paris",
-      "country": "France",
-      "telephone": "555-7569"
+      "location": {
+        "city": "Paris",
+        "country": "France"
+      },
+      "telephone": "555-7569",
+      "devices": [
+        "Android",
+        "iPhone",
+        "Website"
+      ]
     }
   ]
 }
