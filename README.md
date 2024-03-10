@@ -49,9 +49,9 @@ Note: The examples provided in these requirements (such as GUI, RESTful API etc.
 
 ## Instructions for Submission
 
-1. Complete your project as described above within your fork.
+1. Complete your project as described above in a branch within your fork.
 2. Write a detailed README file with your name, email, a description explaining your approach, the technologies you used, and provides clear instructions on how to run your code.
-3. Submit your project by creating a pull request to this repository.
+3. Submit your project by creating a pull request to merge your branch to the main branch of your fork.
 
 We look forward to seeing your solution!
 
