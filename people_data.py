@@ -4,6 +4,8 @@ import yaml
 def load_json(json_path):
     df = pd.read_json(json_path)
     df = pd.json_normalize(df['people'])
+
+    # Renaming columns to match yaml file
     df.rename(columns={
         'surname': 'lastName', 'telephone': 'phone',
         'location.city': 'city', 'location.country': 'country'
@@ -22,7 +24,7 @@ def load_yaml(yaml_path):
     df[['firstName', 'lastName']] = df['name'].str.split(' ', expand=True, n=1)
     df.drop(['name'], axis=1, inplace=True)
 
-    # Extracts city and country from a single string
+    # Extracts devices from boolean values and city and country from a single string
     df['devices'] = df.apply(lambda x: [device for device in ['iPhone', 'Android', 'Desktop'] if x.get(device, False)], axis=1)
     df[['city', 'country']] = df['city'].str.split(', ', expand=True)
 
@@ -57,5 +59,5 @@ df_yaml = load_yaml(yaml_path)
 # Merge the normalized DataFrames
 df_merged = merge_dataframes(df_json, df_yaml)
 
-# Display the first few rows of the merged DataFrame
-print(df_merged.head())
+# Testing merged DataFrame
+# print(df_merged.info())
