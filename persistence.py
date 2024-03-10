@@ -1,5 +1,4 @@
 import os
-import pandas as pd
 from people_data import df_merged
 from data_ingestion import df_promotions, df_transfers, df_transactions
 
