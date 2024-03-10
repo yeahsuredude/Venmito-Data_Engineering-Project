@@ -3,7 +3,7 @@ import pandas as pd
 from people_data import df_merged
 from data_ingestion import df_promotions, df_transfers, df_transactions
 
-def save_dataframes_to_csv():
+def save_df_to_csv():
     directory = 'data_output'
     if not os.path.exists(directory):
         os.makedirs(directory)
@@ -14,4 +14,4 @@ def save_dataframes_to_csv():
     df_transactions.to_csv('df_transactions.csv', index=False)
 
 if __name__ == "__main__":
-    save_dataframes_to_csv()
+    save_df_to_csv()
