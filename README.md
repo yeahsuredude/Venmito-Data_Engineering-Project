@@ -1,66 +1,50 @@
 # Venmito Data Engineering Project
 
 ## Introduction
+Welcome to the Venmito Data Engineering Project. Our aim is to leverage disparate data sources to unearth insights about our client interactions, transactions, and promotional strategies. Venmito, a pioneering payment platform, integrates user transactions and promotions data to enhance service delivery.
 
-Hello and welcome to this data engineering project for Venmito. We're excited to see how you tackle this challenge and provide us with a solution that can bring together disparate data sources into an insightful and valuable resource.
+## Project Overview
+This endeavor processes data across multiple formats—JSON, YAML, CSV, XML—merging and analyzing them to improve our understanding of user behavior and operational efficiency.
 
-Venmito is a payment company that allows users to transfer funds to other users and pay in participant stores. The company has several data files in various formats. Our goal is to organize all of this information to gain insights about our clients and transactions. We believe that there is an immense value hidden in these data files, and we are looking for a solution that can help us extract and utilize this value.
+## Getting Started
+### Prerequisites
+- Python 3.8+
+- Jupyter Notebook
 
-We have five files:
+### Installation
+Clone this repository and install dependencies to set up your environment:
+```bash
+git clone [repository-url]
+cd venmito-data-project
+pip install -r requirements.txt
 
-- `people.json`
-- `people.yml`
-- `transfers.csv`
-- `transactions.xml`
-- `promotions.csv`
+### Usage
+Navigate to the project directory and start Jupyter Notebook:
 
-Each of these files contains different pieces of information about our clients, their transactions, transfers and promotions.
+```bash
+jupyter notebook
 
-Your task is to develop a solution that can read these files, match and conform the data, and provide a way to consume this data.
+Open data_analysis.ipynb for a guided walkthrough of data processing and analysis.
 
-## Requirements
+### Project Structure
+- `people_data.py`: Scripts for processing people data from JSON and YAML.
+- `data_ingestion.py`: Ingests transaction, transfer, and promotions data.
+- `persistence.py`: Facilitates data persistence by exporting to CSV format.
+- `data_analysis.ipynb`: An interactive Jupyter Notebook for detailed data analysis.
 
-1. **Data Ingestion**: Your solution should be able to read and load data from all the provided files. Take into account that these files are in different formats (JSON, YAML, CSV, XML).
+### Data Analysis
+We provide insights on:
+- Client engagement with promotions.
+- Transaction patterns and store performance.
+- Financial flow from fund transfers.
 
-2. **Data Matching and Conforming**: Once the data is loaded, your solution should be capable of matching and conforming the data across these files. This includes identifying common entities, resolving inconsistencies, and organizing the data into a unified format. Furthermore, the consolidated data should not only be transient but also persistent. This persistence should be achieved using appropriate methods such as storing in a file, database, or other suitable data storage solutions, and not restricted to just a variable in memory. This way, the integrity and availability of the consolidated data are ensured for future use and analysis.
+### Contributing
+We welcome contributions. Please fork the repository and submit pull requests for review.
 
-3. **Data Analysis**: Your solution should be able to process the conformed data to derive insights about our clients and transactions. This would involve implementing data aggregations, calculating relevant metrics, and identifying patterns. These insights will be invaluable in helping us understand our clientele and transaction trends better. Examples of things, but is not restricted to, we want to be able to see are:
-    - Which clients have what type of promotion?
-    - Give suggestions on how to turn "No" responses from clients in the promotions file.
-    - Insights on stores, like:
-        - What item is the best seller?
-        - What store has had the most profit?
-        - Etc.
-    - How can we use the data we got from the transfer file?
-  
-    These are only suggestions. Please don't limit yourself to only these examples and explore in your analysis any other suggestions could be beneficial for Venmito.
+### License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-4. **Data Output**: The final output of your solution should enable us to consume the reorganized and analyzed data in a meaningful way. This could be, but is not restricted to, a command line interface (CLI), a database with structured schemas, a GUI featuring interactive visualizations, a Jupyter Notebook, or a RESTful API. We invite you to leverage other innovative methods that you believe would be beneficial for a company like Venmito.
+### Acknowledgements
+Thank you to all contributors and the Venmito team for support and data provision.
 
-5. **Code**: The code for your solution should be well-structured and comprehensible, with comments included where necessary. Remember, the quality and readability of the code will be a significant factor in the evaluation of the final deliverable.
-
-Note: The examples provided in these requirements (such as GUI, RESTful API etc.) are purely illustrative. You are free to employ any solution or technology you deem fit for fulfilling these requirements
-
-## Deliverables
-
-1. Source code.
-2. A README file with your name, email, a description of your solution, your design decisions, and clear instructions on how to run your code.
-3. A method to consume the reorganized and analyzed data.
-
-## Instructions for Submission
-
-1. Complete your project as described above within your fork.
-2. Write a detailed README file with your name, email, a description explaining your approach, the technologies you used, and provides clear instructions on how to run your code.
-3. Submit your project by creating a pull request to this repository.
-
-We look forward to seeing your solution!
-
-Thank you,
-
-Venmito
-
-## DISCLAIMER:
-
-This project and its contents are the exclusive property of Xtillion, LLC and are intended solely for the evaluation of the individual to whom it was provided. Any distribution, reproduction, or unauthorized use is strictly prohibited. By accessing and using this project, you agree to abide by these conditions. Failure to comply with these terms may result in legal action.
-
-Please note that this project is provided "as is", without warranty of any kind, express or implied. Xtillion is not liable for any damages or claims that might arise from using or misusing this project.
+For any inquiries, please contact Jonathan Mena at jonmena7@gmail.com.
