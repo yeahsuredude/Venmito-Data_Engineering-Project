@@ -14,7 +14,7 @@ This endeavor processes data across multiple formats—JSON, YAML, CSV, XML—me
 ### Installation
 Clone this repository and install dependencies to set up your environment:
 ```bash
-git clone [repository-url]
+git clone https://github.com/xtillion/venmito-yeahsuredude
 cd venmito-data-project
 pip install -r requirements.txt
 
