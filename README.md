@@ -33,7 +33,7 @@ The output should present the analyzed data in a consumable format, potentially 
 To set up your environment:
 ```bash
 git clone https://github.com/yeahsuredude/Venmito-Data_Engineering-Project.git
-cd venmito-data-project
+cd Venmito-Data_Engineering-Project
 pip install -r requirements.txt
 ```
 
