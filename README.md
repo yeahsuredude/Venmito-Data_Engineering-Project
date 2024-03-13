@@ -32,7 +32,7 @@ The output should present the analyzed data in a consumable format, potentially 
 ### Installation
 To set up your environment:
 ```bash
-git clone https://github.com/yourusername/venmito-yeahsuredude.git
+git clone https://github.com/yeahsuredude/Venmito-Data_Engineering-Project.git
 cd venmito-data-project
 pip install -r requirements.txt
 ```
