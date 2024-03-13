@@ -1,0 +1,101 @@
+id,firstName,lastName,email,phone,devices,city,country
+1,Tim,Arnold,tim.arnold@example.com,555-4147,"['Android', 'iPhone', 'Desktop']",Dallas,United States
+2,Natalie,Pullman,natalie.pullman@example.com,555-7449,"['iPhone', 'Android', 'Desktop']",Kinshasa,DR Congo
+3,Amelia,Bailey,amelia.bailey@example.com,555-3448,"['iPhone', 'Desktop']",Guadalajara,Mexico
+4,Jane,Springer,jane.springer@example.com,555-9575,"['Android', 'Desktop']",Khartoum,Sudan
+5,Simon,Jackson,simon.jackson@example.com,555-4622,['Android'],Mumbai,India
+6,Michael,McGrath,michael.mcgrath@example.com,555-8448,['iPhone'],Rio de Janeiro,Brazil
+7,Maria,Springer,maria.springer@example.com,555-6983,['Desktop'],Luanda,Angola
+8,Leah,Piper,leah.piper@example.com,555-8366,['iPhone'],Harbin,China
+9,Julia,Murray,julia.murray@example.com,555-3555,"['Android', 'Desktop']",Fukuoka,Japan
+10,Alexander,James,alexander.james@example.com,555-6536,"['Android', 'iPhone', 'Desktop']",Cairo,Egypt
+11,Audrey,Parr,audrey.parr@example.com,555-6516,"['iPhone', 'Android', 'Desktop']",Istanbul,Turkey
+12,Christian,Jackson,christian.jackson@example.com,555-6080,"['Android', 'iPhone']",Washington,United States
+13,Simon,Duncan,simon.duncan@example.com,555-3495,"['Android', 'Desktop']",Qingdao,China
+14,Abigail,Allan,abigail.allan@example.com,555-8008,"['Android', 'iPhone']",Yangon,Myanmar
+15,Claire,Abraham,claire.abraham@example.com,555-1584,"['Android', 'iPhone']",Rio de Janeiro,Brazil
+16,Jack,May,jack.may@example.com,555-1590,"['Android', 'iPhone', 'Desktop']",Alexandria,Egypt
+17,Carol,Avery,carol.avery@example.com,555-3718,"['iPhone', 'Android', 'Desktop']",Ho Chi Minh City,Vietnam
+18,Steven,Hunter,steven.hunter@example.com,555-7607,['Desktop'],Buenos Aires,Argentina
+19,Ryan,Underwood,ryan.underwood@example.com,555-7150,['iPhone'],Paris,France
+20,Carl,Sanderson,carl.sanderson@example.com,555-4014,"['Android', 'Desktop']",Chongqing,China
+21,Albert,Morrison,albert.morrison@example.com,555-4909,['iPhone'],New York City,United States
+22,Jake,Lambert,jake.lambert@example.com,555-9218,['Android'],Bangalore,India
+23,Jason,North,jason.north@example.com,555-6434,['Android'],Manila,Philippines
+24,Lily,Burgess,lily.burgess@example.com,555-6484,"['Android', 'iPhone', 'Desktop']",Dhaka,Bangladesh
+25,Maria,Taylor,maria.taylor@example.com,555-1480,['Desktop'],Wuhan,China
+26,Blake,Sutherland,blake.sutherland@example.com,555-1551,['Desktop'],Surat,India
+27,Sean,Hodges,sean.hodges@example.com,555-4187,['Android'],Mexico City,Mexico
+28,Julia,Coleman,julia.coleman@example.com,555-4073,['Desktop'],London,United Kingdom
+29,Olivia,Ball,olivia.ball@example.com,555-6125,"['iPhone', 'Desktop']",Barcelona,Spain
+30,Samantha,Carr,samantha.carr@example.com,555-2163,"['Android', 'iPhone', 'Desktop']",Delhi,India
+31,Nicholas,Dickens,nicholas.dickens@example.com,555-5595,"['iPhone', 'Desktop']",Chicago,United States
+32,Claire,Dickens,claire.dickens@example.com,555-1130,['Android'],Paris,France
+33,Faith,Simpson,faith.simpson@example.com,555-1643,"['Android', 'iPhone']",Kinshasa,DR Congo
+34,Sam,Wright,sam.wright@example.com,555-6633,['Android'],Karachi,Pakistan
+35,William,Mills,william.mills@example.com,555-5512,"['Android', 'Desktop']",Chongqing,China
+36,Keith,Thomson,keith.thomson@example.com,555-6813,"['Android', 'iPhone', 'Desktop']",Kolkata,India
+37,Gavin,Sharp,gavin.sharp@example.com,555-1893,['Android'],Dallas,United States
+38,Alexandra,Walker,alexandra.walker@example.com,555-2172,['Desktop'],Nagoya,Japan
+39,Bella,Reid,bella.reid@example.com,555-5653,['iPhone'],Delhi,India
+40,Dominic,Ogden,dominic.ogden@example.com,555-5726,['iPhone'],Harbin,China
+41,Abigail,Clark,abigail.clark@example.com,555-4948,['Desktop'],Santiago,Chile
+42,Anne,Duncan,anne.duncan@example.com,555-9797,"['Android', 'iPhone', 'Desktop']",Tokyo,Japan
+43,Owen,Morgan,owen.morgan@example.com,555-7554,"['Android', 'Desktop']",Shenzhen,China
+44,Jacob,Bower,jacob.bower@example.com,555-5398,"['Android', 'iPhone', 'Desktop']",Dhaka,Bangladesh
+45,Abigail,MacLeod,abigail.macleod@example.com,555-5065,['iPhone'],Shenyang,China
+46,Joseph,Simpson,joseph.simpson@example.com,555-6638,['Desktop'],Madrid,Spain
+47,Fiona,Newman,fiona.newman@example.com,555-9378,['Android'],Qingdao,China
+48,Elizabeth,Ross,elizabeth.ross@example.com,555-5323,['Desktop'],Kolkata,India
+49,Boris,Davies,boris.davies@example.com,555-6642,['Desktop'],Saint Petersburg,Russia
+50,Colin,Watson,colin.watson@example.com,555-1755,['iPhone'],Houston,United States
+51,Michael,Howard,michael.howard@example.com,555-6975,['iPhone'],Chicago,United States
+52,Gavin,Dickens,gavin.dickens@example.com,555-5049,['Android'],Jakarta,Indonesia
+53,Stephanie,Mills,stephanie.mills@example.com,555-2170,['Android'],Pune,India
+54,Tracey,Lyman,tracey.lyman@example.com,555-6749,['iPhone'],Guadalajara,Mexico
+55,Sam,Scott,sam.scott@example.com,555-1561,"['Android', 'iPhone', 'Desktop']",Wuhan,China
+56,Megan,Wilkins,megan.wilkins@example.com,555-8833,['iPhone'],Hyderabad,India
+57,Jennifer,Smith,jennifer.smith@example.com,555-5688,['Android'],Dongguan,China
+58,Gabrielle,Wright,gabrielle.wright@example.com,555-3128,"['iPhone', 'Desktop']",Hangzhou,China
+59,Amelia,Gray,amelia.gray@example.com,555-3781,['Desktop'],Hong Kong,China
+60,Emily,Hughes,emily.hughes@example.com,555-1052,"['iPhone', 'Desktop']",Harbin,China
+61,Ava,Sanderson,ava.sanderson@example.com,555-2232,"['Android', 'Desktop']",Kuala Lumpur,Malaysia
+62,Dorothy,Peake,dorothy.peake@example.com,555-8309,['Desktop'],Lahore,Pakistan
+63,Jennifer,MacLeod,jennifer.macleod@example.com,555-1124,['Android'],Lima,Peru
+64,Dylan,Blake,dylan.blake@example.com,555-2801,['Desktop'],Kolkata,India
+65,Katherine,Butler,katherine.butler@example.com,555-2311,"['iPhone', 'Desktop']",Shanghai,China
+66,Adam,Wilson,adam.wilson@example.com,555-3416,['Desktop'],Nagoya,Japan
+67,Diana,Ross,diana.ross@example.com,555-2305,['iPhone'],Miami,United States
+68,Joan,Blake,joan.blake@example.com,555-8661,"['Android', 'iPhone']",Shenzhen,China
+69,Jonathan,Rees,jonathan.rees@example.com,555-5621,"['Android', 'iPhone', 'Desktop']",Qingdao,China
+70,Sean,Taylor,sean.taylor@example.com,555-7998,"['iPhone', 'Desktop']",Washington,United States
+71,Warren,Ogden,warren.ogden@example.com,555-8588,['Desktop'],Moscow,Russia
+72,Adrian,Wright,adrian.wright@example.com,555-7727,"['Android', 'iPhone']",Hangzhou,China
+73,Blake,Miller,blake.miller@example.com,555-4646,"['Android', 'Desktop']",Dhaka,Bangladesh
+74,James,Abraham,james.abraham@example.com,555-1534,['iPhone'],Hong Kong,China
+75,Dominic,Nolan,dominic.nolan@example.com,555-3029,['Android'],Belo Horizonte,Brazil
+76,Rachel,MacDonald,rachel.macdonald@example.com,555-3354,"['Android', 'iPhone']",Tianjin,China
+77,Owen,Howard,owen.howard@example.com,555-5006,"['Android', 'iPhone']",Los Angeles,United States
+78,Jake,Morrison,jake.morrison@example.com,555-6628,"['Android', 'Desktop']",Chennai,India
+79,Keith,Harris,keith.harris@example.com,555-1220,"['iPhone', 'Android', 'Desktop']",Barcelona,Spain
+80,Brian,Buckland,brian.buckland@example.com,555-2660,"['Android', 'Desktop']",Kinshasa,DR Congo
+81,Paul,Terry,paul.terry@example.com,555-4652,['iPhone'],Paris,France
+82,Gordon,Abraham,gordon.abraham@example.com,555-8131,"['Android', 'Desktop']",Ahmedabad,India
+83,Edward,North,edward.north@example.com,555-5349,"['iPhone', 'Desktop']",Guadalajara,Mexico
+84,Deirdre,Burgess,deirdre.burgess@example.com,555-9092,"['Android', 'iPhone', 'Desktop']",Bangkok,Thailand
+85,Anthony,Hunter,anthony.hunter@example.com,555-5332,"['Android', 'iPhone', 'Desktop']",Kolkata,India
+86,Stephen,Brown,stephen.brown@example.com,555-7889,['Android'],Chongqing,China
+87,Donna,Hudson,donna.hudson@example.com,555-2202,['Android'],Guangzhou,China
+88,Stewart,Slater,stewart.slater@example.com,555-8235,"['iPhone', 'Desktop']",Guadalajara,Mexico
+89,David,Forsyth,david.forsyth@example.com,555-5562,['Desktop'],Hangzhou,China
+90,Christian,Hardacre,christian.hardacre@example.com,555-9468,['Desktop'],Shanghai,China
+91,Bella,Arnold,bella.arnold@example.com,555-6026,['Desktop'],Alexandria,Egypt
+92,Mary,Clark,mary.clark@example.com,555-4626,['Android'],Seoul,South Korea
+93,Pippa,Tucker,pippa.tucker@example.com,555-1277,"['Android', 'Desktop']",Chicago,United States
+94,Michael,Payne,michael.payne@example.com,555-2600,"['Android', 'Desktop']",Houston,United States
+95,John,Scott,john.scott@example.com,555-8564,['iPhone'],Guadalajara,Mexico
+96,Alan,Chapman,alan.chapman@example.com,555-9610,"['Android', 'Desktop']",Shanghai,China
+97,Dan,Young,dan.young@example.com,555-8461,['Desktop'],Saint Petersburg,Russia
+98,Phil,Davies,phil.davies@example.com,555-8510,"['Android', 'Desktop']",Qingdao,China
+99,Pippa,Wilson,pippa.wilson@example.com,555-8292,"['iPhone', 'Desktop']",Houston,United States
+100,Alan,Carr,alan.carr@example.com,555-7569,"['Android', 'iPhone', 'Desktop']",Paris,France

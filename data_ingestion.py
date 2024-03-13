@@ -13,7 +13,8 @@ def load_and_prep_promotions(csv_path):
 
 def load_and_prep_transfers(csv_path):
     df_transfers = pd.read_csv(csv_path)
-    # Optionally, convert date to datetime format for easier handling
+
+    # Convert date to datetime format for easier handling
     df_transfers['date'] = pd.to_datetime(df_transfers['date'])
     return df_transfers
 
